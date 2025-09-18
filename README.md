@@ -6,8 +6,8 @@ The project demonstrates skills in **web development, REST APIs, and clean archi
 ---
 
 ## 🔗 Repositories
-- **Frontend (React)** → [Chess Frontend Repository](https://github.com/yourusername/chess-frontend)
-- **Backend (Spring Boot)** → [Chess Backend Repository](https://github.com/yourusername/chess-backend)
+- **Frontend (React)** → [Chess Frontend Repository](https://github.com/yourusername/chess-frontend](https://github.com/DMZ-byte/Chess-frontend))
+- **Backend (Spring Boot)** → [Chess Backend Repository]([https://github.com/yourusername/chess-backend](https://github.com/DMZ-byte/Chessable-backend))
 
 ---
 
